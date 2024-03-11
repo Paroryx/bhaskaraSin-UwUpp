@@ -1,0 +1,36 @@
+UwU? iws twis a bhaskara sin?
+nyaa *bwaskawaSin(degwees, offset)*
+    minusOne iws 1 minwus 2
+    appwovxSin iws 0
+    *notices degwees gweatew twan minusOne*
+        *notices degwees wess twan 181*
+            cawcDegw iws 180 minwus degwees
+            cawc1 iws 4 twimes degwees twimes cawcDegw
+
+            swift iws getSwift(offset)
+            cawc1 iws cawc1 twimes swift
+
+            cawc2 iws 40500 minwus degwees twimes cawcDegw
+            appwovxSin iws cawc1 diwide cawc2
+        stawp
+    stawp
+    wetuwn "0." pwus appwovxSin
+
+nyaa *getSwift(offset)*
+    swift iws 1
+    i iws 0
+    OwO *notices i wess twan offset*
+        swift iws swift twimes 10
+        i iws i pwus 1
+    stawp
+    wetuwn swift
+
+nuzzels(bwaskawaSin(100,7))
+nuzzels(bwaskawaSin(48,7))
+nuzzels(bwaskawaSin(23,7))
+nuzzels(bwaskawaSin(12,7))
+nuzzels(bwaskawaSin(-5,7))
+nuzzels(bwaskawaSin(12,7))
+nuzzels(bwaskawaSin(4124,7))
+nuzzels(bwaskawaSin(12,7))
+nuzzels(bwaskawaSin(44,7))
